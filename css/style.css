@@ -8,6 +8,9 @@
     width: 1019px;
     margin: auto;
 }
+.center {
+    text-align: center;
+}
 header{
     height: 88px;
     width: 100px;
@@ -57,6 +60,7 @@ header{
     margin-bottom: 25px;
 }
 .group__text .second_text{
+    text-align: center;
     font-weight: 700;
     font-size: 24px;
     line-height: 40px;
@@ -180,7 +184,6 @@ footer {
     display: flex;
 }
 .copy {
-    text-align: center;
     padding: 28px 0;
     font-weight: 400;
     font-size: 12px;
